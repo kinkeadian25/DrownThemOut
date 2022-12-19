@@ -48,8 +48,14 @@ TagManager:
   - name: grass
     uniqueID: 332392731
     locked: 0
+  - name: water
+    uniqueID: 1328527371
+    locked: 0
   - name: river
     uniqueID: 666480465
+    locked: 0
+  - name: track
+    uniqueID: 3772067137
     locked: 0
   - name: buildings
     uniqueID: 2719838817
