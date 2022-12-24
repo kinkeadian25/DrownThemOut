@@ -8,6 +8,12 @@ TagManager:
   - BeachHouse
   - Goober
   - HealthBar
+  - Sprinkler
+  - Hero
+  - QuadSprinkler
+  - BalloonLauncher
+  - Balloon
+  - BalloonTrigger
   layers:
   - Default
   - TransparentFX
@@ -27,7 +33,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - testing
   - 
   - 
   - 
@@ -62,4 +68,10 @@ TagManager:
     locked: 0
   - name: enemies
     uniqueID: 101038483
+    locked: 0
+  - name: hero
+    uniqueID: 1547569573
+    locked: 0
+  - name: sprinkler
+    uniqueID: 2103986025
     locked: 0

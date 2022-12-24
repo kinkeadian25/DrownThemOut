@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: 73f301d9204074d4f9b42512563e3508
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: landscape and house3_51
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 408
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b6ed336dbac2a41a6be26c66342f37
+      internalID: -1351605655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape and house3_69
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 389
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087b9b5a63037104ebb3f51c5d69637e
+      internalID: -1953233835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape and house3_72
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 395
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf61477d1a1348448c35684296c8259
+      internalID: 316334338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape and house3_73
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 395
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421014ccb17835d48a2092f43bc82fdd
+      internalID: -1344034916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape and house3_74
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 395
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71123114546d50848bc70f1b00c83ec7
+      internalID: 331315414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape and house3_75
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 395
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d618de8d1af781428df8d853f277a2d
+      internalID: 362489023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape and house3_94
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 388
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7a50772e55b494a851b4ee9dc36952
+      internalID: 1717439854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape and house3_102
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 315
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a537231713c273046a742fe41531c8d3
+      internalID: -1243098052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      landscape and house3_54: 1009179071
+      landscape and house3_58: -1952646611
+      landscape and house3_71: 216728749
+      landscape and house3_5: 640698107
+      landscape and house3_89: -1996654789
+      landscape and house3_39: 331420043
+      landscape and house3_43: 1681402389
+      landscape and house3_88: 919591225
+      landscape and house3_44: -647849892
+      landscape and house3_12: 1566161682
+      landscape and house3_94: 1717439854
+      landscape and house3_96: 576362400
+      landscape and house3_70: -764665146
+      landscape and house3_20: -211727627
+      landscape and house3_104: -121929336
+      landscape and house3_92: -1695249176
+      landscape and house3_19: 773933953
+      landscape and house3_35: 460245222
+      landscape and house3_1: 1621532961
+      landscape and house3_52: -21040429
+      landscape and house3_3: 1220728031
+      landscape and house3_81: 1370107720
+      landscape and house3_9: 751157221
+      landscape and house3_14: 647937908
+      landscape and house3_103: -2117403163
+      landscape and house3_21: 359764979
+      landscape and house3_78: -1280565085
+      landscape and house3_45: -482649532
+      landscape and house3_69: -1953233835
+      landscape and house3_11: -333508232
+      landscape and house3_6: -600704406
+      landscape and house3_65: 643684269
+      landscape and house3_29: 1149631374
+      landscape and house3_15: -1167395192
+      landscape and house3_64: 673940223
+      landscape and house3_46: -1170031706
+      landscape and house3_60: 1293939596
+      landscape and house3_42: 700632144
+      landscape and house3_86: -1813217016
+      landscape and house3_28: 1444109385
+      landscape and house3_95: -1280659792
+      landscape and house3_105: 332668411
+      landscape and house3_72: 316334338
+      landscape and house3_83: -401973225
+      landscape and house3_17: -1651701360
+      landscape and house3_53: 117310511
+      landscape and house3_37: 977640454
+      landscape and house3_4: 1873187433
+      landscape and house3_7: 1750983981
+      landscape and house3_0: 1720560744
+      landscape and house3_57: -1112426162
+      landscape and house3_10: 876481702
+      landscape and house3_30: 1980090602
+      landscape and house3_82: -42663659
+      landscape and house3_73: -1344034916
+      landscape and house3_23: -768331590
+      landscape and house3_13: -1292384177
+      landscape and house3_48: -1877428172
+      landscape and house3_36: 1602614965
+      landscape and house3_24: 596934000
+      landscape and house3_59: 1639733858
+      landscape and house3_90: 716387773
+      landscape and house3_91: -1147942431
+      landscape and house3_18: -1561383682
+      landscape and house3_51: -1351605655
+      landscape and house3_66: -1423104371
+      landscape and house3_76: 1497862605
+      landscape and house3_63: -989637061
+      landscape and house3_97: -898007054
+      landscape and house3_41: -1230402741
+      landscape and house3_93: 1199003976
+      landscape and house3_75: 362489023
+      landscape and house3_34: -1747108547
+      landscape and house3_101: 967478985
+      landscape and house3_2: -1592833968
+      landscape and house3_40: -1557601828
+      landscape and house3_74: 331315414
+      landscape and house3_77: -1491544336
+      landscape and house3_49: -514341796
+      landscape and house3_87: 306863403
+      landscape and house3_62: 1898191060
+      landscape and house3_38: 11365873
+      landscape and house3_55: -850705778
+      landscape and house3_67: 1653467862
+      landscape and house3_56: -1469157688
+      landscape and house3_84: 884361628
+      landscape and house3_100: 2092783825
+      landscape and house3_8: 1839556899
+      landscape and house3_80: 979806774
+      landscape and house3_99: -519067973
+      landscape and house3_22: 282163605
+      landscape and house3_61: 230575422
+      landscape and house3_33: -1816155063
+      landscape and house3_31: 1451202615
+      landscape and house3_85: -1759138799
+      landscape and house3_32: 16415314
+      landscape and house3_68: 163615696
+      landscape and house3_47: -1722309903
+      landscape and house3_98: 446961049
+      landscape and house3_79: -830697091
+      landscape and house3_26: -1413273759
+      landscape and house3_102: -1243098052
+      landscape and house3_50: -843051552
+      landscape and house3_27: -643182146
+      landscape and house3_25: -1976367653
+      landscape and house3_16: -1910725167
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
