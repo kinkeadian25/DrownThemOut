@@ -1,6 +1,6 @@
 # UpInFlames
 
-This the repo for a game I made during a week-long game jam using Unity and C#! It was a stressful but rewarding experience!
+This is the repo for a game I made during a week-long game jam using Unity and C#! It was a stressful but rewarding experience!
 
   [Play the game!](https://kinkeadian25.itch.io/up-in-flames)
 
