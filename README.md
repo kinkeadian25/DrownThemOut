@@ -6,7 +6,7 @@ This is the repo for a game I made during a week-long game jam using Unity and C
 
 ## Description
 
-I ran into a lot of roadblocks trying to get this game to where it is in a week! A lot of youtube university for sure! I had an amazing time though, and getting it to where it is, as well as learning about singleton patterns and object poolers was amazing! Eleanor Kinkead made all of the art for the game, and we actually plan to update the game periodically! So, please let me know what you would do to make it better!
+I ran into a lot of roadblocks trying to get this game to where it is in a week! A lot of youtube university for sure! I had an amazing time though. Getting it ready to submit for the jam, as well as learning about singleton patterns and object poolers was amazing! Eleanor Kinkead made all of the art for the game, and we actually plan to update the game periodically! So, please let me know what you would do to make it better!
 
 ## Getting started
 
